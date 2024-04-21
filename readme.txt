@@ -5,7 +5,7 @@ README file for GENSENG software distribution
 1. Compilation
 ==============
 
-You must have GUN g++ available on your computer.
+You must have GNU g++ available on your computer.
 
 $ cd src/
 $ make
